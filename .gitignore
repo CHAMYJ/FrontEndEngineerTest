@@ -1,4 +1,4 @@
-Q2/my-app/node_modules/*
+**/node_modules/*
 Q2/node_modules/*
 Q2/package.json
 Q2/package-lock.json
