@@ -1,5 +1,11 @@
-Q2/my-app/node_modules
-Q2/node_modules
+Q2/my-app/node_modules/*
+Q2/node_modules/*
 Q2/package.json
 Q2/package-lock.json
 Q2/yarn.lock
+hooks/*
+info/*
+object/*
+HEAD
+config
+description

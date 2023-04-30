@@ -6,7 +6,7 @@
 # Q1 ScreenShots:
 
 - Q1 Output 
-![image](assets/q1_output.png)
+![image](assets/q1_output.PNG)
 
 # Q2
 - Develop an ecommerce website using ReactJS that have the features:
@@ -33,10 +33,10 @@ checkout function).
 ![image](assets/q2_product_page.png)
 
 - Product Info 
-![image](assets/q2_product_detail_page.png)
+![image](assets/q2_product_detail_page.PNG)
 
 - Cart Page
-![image](assets/q2_cart_display_page.png)
+![image](assets/q2_cart_display_page.PNG)
 
 - Login Page
 ![image](assets/q2_login_page.png)
